@@ -1,0 +1,18 @@
+title: "i-rinat's notes"
+email:
+description: >- #
+  No description provided
+baseurl: "/notes"
+domain: i-rinat.github.io
+url: "https://i-rinat.github.io"
+
+markdown: kramdown
+theme: minima
+minima:
+    skin: dark
+    date_format: "%Y-%m-%d"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
