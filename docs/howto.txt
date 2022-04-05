@@ -1,0 +1,4 @@
+`jekyll build` to build
+`jekyll serve` to start embedded web-server
+
+You may want to remove Gemfile.lock if Ruby packages were updated.
